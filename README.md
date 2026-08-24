@@ -15,6 +15,9 @@
 <a href="mailto:najaflinisa@gmail.com">
   <img src="https://img.shields.io/badge/Email-najaflinisa@gmail.com-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" />
 </a>
+<a href="https://wa.me/994555807384">
+  <img src="https://img.shields.io/badge/WhatsApp-%2B994_55_580_73_84-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0D1117" />
+</a>
 <img src="https://img.shields.io/badge/Baku-Azerbaijan-92FE9D?style=for-the-badge&logo=googlemaps&logoColor=black&labelColor=0D1117" />
 
 <br><br>
@@ -166,16 +169,21 @@ flowchart LR
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=NisaNajafli&show_icons=true&hide_border=true&theme=radical&bg_color=0D1117&title_color=00C9FF&icon_color=92FE9D&text_color=ffffff&count_private=true" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NisaNajafli&layout=compact&hide_border=true&theme=radical&bg_color=0D1117&title_color=00C9FF&text_color=ffffff" height="165" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NisaNajafli&theme=radical" width="98%" />
+
+<br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NisaNajafli&theme=radical" height="200" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NisaNajafli&theme=radical" height="200" />
+
+<br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NisaNajafli&theme=radical" height="200" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NisaNajafli&theme=radical&utcOffset=4" height="200" />
 
 <br>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=NisaNajafli&bg_color=0D1117&color=00C9FF&line=8E2DE2&point=92FE9D&area=true&hide_border=true" width="98%" />
-
-<br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=NisaNajafli&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=8" width="98%" />
 
 </div>
 
@@ -193,7 +201,9 @@ flowchart LR
 <a href="mailto:najaflinisa@gmail.com">
   <img src="https://img.shields.io/badge/Email-najaflinisa@gmail.com-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" />
 </a>
-
+<a href="tel:+994555807384">
+  <img src="https://img.shields.io/badge/Phone-%2B994_55_580_73_84-92FE9D?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0D1117" />
+</a>
 
 <br>
 
