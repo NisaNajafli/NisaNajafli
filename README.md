@@ -15,9 +15,6 @@
 <a href="mailto:najaflinisa@gmail.com">
   <img src="https://img.shields.io/badge/Email-najaflinisa@gmail.com-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" />
 </a>
-<a href="https://wa.me/994555807384">
-  <img src="https://img.shields.io/badge/WhatsApp-%2B994_55_580_73_84-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0D1117" />
-</a>
 <img src="https://img.shields.io/badge/Baku-Azerbaijan-92FE9D?style=for-the-badge&logo=googlemaps&logoColor=black&labelColor=0D1117" />
 
 <br><br>
@@ -196,9 +193,7 @@ flowchart LR
 <a href="mailto:najaflinisa@gmail.com">
   <img src="https://img.shields.io/badge/Email-najaflinisa@gmail.com-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" />
 </a>
-<a href="tel:+994555807384">
-  <img src="https://img.shields.io/badge/Phone-%2B994_55_580_73_84-92FE9D?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0D1117" />
-</a>
+
 
 <br>
 
