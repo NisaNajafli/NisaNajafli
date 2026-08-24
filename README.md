@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,25:4A00E0,50:00C9FF,75:92FE9D,100:FF6B6B&height=200&section=header&text=Nisa%20Najafli&fontSize=55&fontColor=ffffff&fontAlignY=32&desc=QA%20Engineer%20//%20Fintech%20//%20Test%20Automation&descAlignY=52&descSize=18&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,25:4A00E0,50:00C9FF,75:92FE9D,100:FF6B6B&height=210&section=header&text=Nisa%20Najafli&fontSize=58&fontColor=ffffff&fontAlignY=32&desc=QA%20Engineer%20//%20Fintech%20//%20Test%20Automation&descAlignY=52&descSize=18&animation=fadeIn" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=900&color=00C9FF&center=true&vCenter=true&width=780&lines=Breaking+software+before+your+users+do.;Requirement+analysis+%E2%86%92+Test+design+%E2%86%92+Automation;Selenium+%7C+Playwright+%7C+Postman+%7C+SQL+%7C+Java;If+it+can+fail%2C+I+already+wrote+a+test+for+it." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=2800&pause=900&color=00C9FF&center=true&vCenter=true&width=820&lines=Breaking+software+before+your+users+do.;Requirement+analysis+%E2%86%92+Test+design+%E2%86%92+Automation;Selenium+%7C+Playwright+%7C+Postman+%7C+SQL+%7C+Java;Your+happy+path+is+my+starting+point.;If+it+can+fail%2C+I+already+wrote+a+test+for+it." />
 
 <br>
 
@@ -18,43 +18,94 @@
 <a href="https://wa.me/994555807384">
   <img src="https://img.shields.io/badge/WhatsApp-%2B994_55_580_73_84-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0D1117" />
 </a>
-<img src="https://img.shields.io/badge/Baku-Azerbaijan-92FE9D?style=for-the-badge&logo=googlemaps&logoColor=black&labelColor=0D1117" />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/STATUS-Open_to_QA_opportunities-success?style=flat-square&labelColor=0D1117&color=92FE9D" />
-<img src="https://img.shields.io/badge/CURRENTLY-MSc_Artificial_Intelligence-blueviolet?style=flat-square&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/MOOD-Reproducing_your_bug-orange?style=flat-square&labelColor=0D1117" />
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,50:00C9FF,100:92FE9D&height=4&section=header" width="100%" />
 
 </div>
 
-## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28"> &nbsp;`whoami`
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,33:4A00E0,66:00C9FF,100:92FE9D&height=4&section=header" width="100%" />
 
-```yaml
-name:     Nisa Najafli
-role:     QA Engineer
-domain:   Fintech · Investment platform · Microservices
-stack:    Spring Boot · Camunda BPM · Oracle · Kafka
-studying: MSc Artificial Intelligence @ ASOIU
-origin:   Developer turned tester — I read the code, not just the screen
-motto:    "It works on my machine" is not a test result
+<div align="center">
+
+### ⚡ &nbsp;`pipeline: nisa-najafli` &nbsp;·&nbsp; last run: today
+
+<img src="https://img.shields.io/badge/build-passing-92FE9D?style=for-the-badge&labelColor=0D1117&logo=githubactions&logoColor=white" />
+<img src="https://img.shields.io/badge/curiosity-100%25-00C9FF?style=for-the-badge&labelColor=0D1117&logo=codecov&logoColor=white" />
+<img src="https://img.shields.io/badge/edge_cases-always_one_more-FF6B6B?style=for-the-badge&labelColor=0D1117&logo=bugatti&logoColor=white" />
+<img src="https://img.shields.io/badge/flaky_tests-0-8E2DE2?style=for-the-badge&labelColor=0D1117&logo=testcafe&logoColor=white" />
+<br>
+<img src="https://img.shields.io/badge/STATUS-Open_to_QA_roles-success?style=flat-square&labelColor=0D1117&color=92FE9D" />
+<img src="https://img.shields.io/badge/LOCATION-Baku,_Azerbaijan-blue?style=flat-square&labelColor=0D1117&color=00C9FF" />
+<img src="https://img.shields.io/badge/STUDYING-MSc_Artificial_Intelligence-blueviolet?style=flat-square&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/MOOD-Reproducing_your_bug-orange?style=flat-square&labelColor=0D1117" />
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,33:4A00E0,66:00C9FF,100:92FE9D&height=4&section=header" width="100%" />
+
+## 💻 &nbsp;`$ whoami`
+
+```console
+$ nisa --whoami
+
+  role       : QA Engineer
+  domain     : Fintech · Investment platform · Microservices
+  under_test : Spring Boot · Camunda BPM · Oracle · Kafka
+  background : Developer turned tester — I read the code, not just the screen
+  studying   : MSc Artificial Intelligence @ ASOIU
+  location   : Baku, Azerbaijan (UTC+4)
+
+$ nisa --philosophy
+
+  "It works on my machine" is not a test result.
+  The happy path is where testing starts, not where it ends.
 ```
 
 I test a **fintech investment platform** end to end — order lifecycles, BPMN workflows, securities, commissions, onboarding, maker-checker flows. Requirement analysis, test design, API and UI automation, and hunting the edge case everyone hoped nobody would try.
 
-My **development background** is the unfair advantage: I can reproduce a defect, trace the likely cause, and hand a developer something actionable instead of a screenshot and a prayer.
+My **development background** is the unfair advantage: I reproduce the defect, trace the likely cause, and hand the developer something actionable — not a screenshot and a prayer.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,50:00C9FF,100:92FE9D&height=4&section=header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,33:4A00E0,66:00C9FF,100:92FE9D&height=4&section=header" width="100%" />
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> &nbsp;Arsenal
+## 🥒 &nbsp;`hiring_nisa.feature`
+
+```gherkin
+Feature: Hiring Nisa Najafli
+  As a team that ships to real users
+  I want a QA engineer who reads specs like a lawyer
+  So that our customers never become our test environment
+
+  Background:
+    Given a platform built from microservices
+    And requirements that quietly contradict each other on page 4
+
+  Scenario: A release goes out
+    Given the specification was reviewed before test design started
+    When 3 gaps and 2 contradictions are flagged
+    Then they are fixed before a single test case is written
+    And the regression suite runs overnight, unsupervised
+    And the release ships without a hotfix
+
+  Scenario Outline: The cases nobody wanted to think about
+    When the input is "<input>"
+    Then the system must not <disaster>
+
+    Examples:
+      | input                 | disaster           |
+      | amount = 0.00         | crash              |
+      | 10-digit order value  | silently round      |
+      | expired token         | leak data          |
+      | double-clicked submit | charge twice       |
+      | back button mid-flow  | duplicate a record |
+```
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,33:4A00E0,66:00C9FF,100:92FE9D&height=4&section=header" width="100%" />
+
+## 🧰 &nbsp;Arsenal
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,js,selenium,postman,git,github,idea&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,python,js,selenium,postman,mysql,git,github&theme=dark" />
 <br>
-<img src="https://skillicons.dev/icons?i=mysql,html,css,jenkins,docker,linux,vscode,figma&theme=dark" />
+<img src="https://skillicons.dev/icons?i=idea,vscode,docker,jenkins,linux,html,css,figma&theme=dark" />
 
 </div>
 
@@ -96,14 +147,14 @@ My **development background** is the unfair advantage: I can reproduce a defect,
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,50:00C9FF,100:92FE9D&height=4&section=header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,33:4A00E0,66:00C9FF,100:92FE9D&height=4&section=header" width="100%" />
 
-## <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="28"> &nbsp;How a Feature Survives Me
+## 🔄 &nbsp;How a Feature Survives Me
 
 ```mermaid
 flowchart LR
-    A([📄 Requirement]) --> B{Spec makes<br/>sense?}
-    B -- No --> C[🚩 Flag gaps<br/>& contradictions]
+    A([📄 Requirement]) --> B{Spec actually<br/>makes sense?}
+    B -- No --> C[🚩 Gaps &<br/>contradictions]
     C --> A
     B -- Yes --> D[🧠 Test design<br/>cases · checklists]
     D --> E[🔍 Manual<br/>functional · negative · UI]
@@ -114,7 +165,7 @@ flowchart LR
     I --> J[🤝 Dev handoff]
     J --> E
     H -- No --> K[🤖 Automate<br/>regression suite]
-    K --> L([🚀 Ship with confidence])
+    K --> L([🚀 Ship without a hotfix])
 
     style A fill:#8E2DE2,stroke:#fff,color:#fff
     style C fill:#FF6B6B,stroke:#fff,color:#fff
@@ -123,49 +174,135 @@ flowchart LR
     style L fill:#92FE9D,stroke:#fff,color:#000
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,50:00C9FF,100:92FE9D&height=4&section=header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,33:4A00E0,66:00C9FF,100:92FE9D&height=4&section=header" width="100%" />
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28"> &nbsp;What I Actually Deliver
+## 📊 &nbsp;Where the Week Actually Goes
 
-| | |
-| :-- | :-- |
-| 🧪 **Test Design** | Test cases, scenarios, checklists, Xray-ready suites |
-| 🕵️ **Manual Testing** | Functional · regression · smoke · exploratory · negative · UI/UX |
-| 🔌 **API Testing** | REST validation, chained requests, pre-request & post-response scripts, environments |
-| 🤖 **Automation** | Selenium (Java · TestNG · POM), Playwright, API automation suites |
-| 🗄️ **Database** | SQL data verification, constraint & integrity checks |
-| 📋 **Requirements** | Spec review, gap and contradiction analysis — *before* a single test is written |
-| 🐞 **Reporting** | Reproducible bug reports, JQL-based Jira management, release quality reporting |
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,50:00C9FF,100:92FE9D&height=4&section=header" width="100%" />
-
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"> &nbsp;Principles
-
-<div align="center">
-
-| 🎯 | 💬 |
-| :-: | :-- |
-| **Break requirements, not builds** | A defect caught in the spec costs a conversation. In production it costs a release. |
-| **A bug report is a deliverable** | Steps, expected, actual, environment, logs. No archaeology required. |
-| **Automate what repeats** | Regression suites should run while people sleep. |
-| **Two brains, every release** | Think like the user. Verify like an engineer. |
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,50:00C9FF,100:92FE9D&height=4&section=header" width="100%" />
-
-## <img src="https://media.giphy.com/media/ZE6HAqbmDDrmuNiXrx/giphy.gif" width="28"> &nbsp;Currently
-
-```diff
-+ Deepening   → test automation architecture, CI-integrated suites
-+ Studying    → MSc Artificial Intelligence (ASOIU) — neural networks thesis
-+ Exploring   → AI-assisted test generation & quality analytics
-! Always      → one more edge case
+```mermaid
+pie showData
+    title A realistic QA sprint
+    "Test design & documentation" : 28
+    "Manual & exploratory testing" : 24
+    "Automation (Selenium · Playwright)" : 20
+    "API & database verification" : 16
+    "Explaining that it is not a cache issue" : 12
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,50:00C9FF,100:92FE9D&height=4&section=header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,33:4A00E0,66:00C9FF,100:92FE9D&height=4&section=header" width="100%" />
 
-## <img src="https://media.giphy.com/media/PWfYcPuKzzMEuHDaqI/giphy.gif" width="28"> &nbsp;GitHub Stats
+## 🗓 &nbsp;Career Test Run — *all green so far*
+
+```mermaid
+timeline
+    title Execution log
+    Computer Science, BSc : Baku State University : first taste of "why did it break?"
+    IT Project Management : client web projects : requirements, scope, delivery
+    Frontend Development : HTML · CSS · JS : shipping real interfaces
+    QA Engineer : fintech investment platform : test design · automation · release quality
+    MSc Artificial Intelligence : neural networks research : in progress
+```
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,33:4A00E0,66:00C9FF,100:92FE9D&height=4&section=header" width="100%" />
+
+## 📂 &nbsp;Evidence — *tap to expand*
+
+<details>
+<summary><b>&nbsp;🐞 &nbsp;What a bug report from me looks like</b></summary>
+
+<br>
+
+> **ID:** INV-2481 &nbsp;·&nbsp; **Severity:** High &nbsp;·&nbsp; **Priority:** P1 &nbsp;·&nbsp; **Module:** Order Management
+
+**Summary:** Cancelling an order in `PENDING_APPROVAL` leaves the reserved balance locked
+
+**Environment:** Test env · Chrome 126 · build 2.14.3 · Oracle 19c
+
+**Preconditions:** Customer has an active investment account with sufficient balance
+
+**Steps to reproduce**
+1. Create a buy order that requires approval
+2. Verify the reserved amount appears under Account Balance
+3. Cancel the order from the order list before the approver acts
+4. Refresh Account Balance
+
+**Expected:** Reserved amount is released and available balance returns to its original value
+**Actual:** Order status becomes `CANCELLED`, but the reserved amount stays locked
+
+**Evidence:** API response · DB query result · workflow instance state · screen recording
+
+**Impact:** Customer funds are unavailable until manual intervention
+
+</details>
+
+<details>
+<summary><b>&nbsp;🧪 &nbsp;What a test case from me looks like</b></summary>
+
+<br>
+
+| Field | Value |
+| :-- | :-- |
+| **ID** | TC-ORD-047 |
+| **Title** | Reject an order with an amount above the customer limit |
+| **Type** | Functional · Negative |
+| **Preconditions** | Customer limit configured; account funded |
+| **Steps** | 1. Open order creation · 2. Enter amount = limit + 0.01 · 3. Submit |
+| **Expected** | Order is rejected, validation message displayed, no workflow instance created, no balance reserved |
+| **Postconditions** | Account balance unchanged |
+| **Automation** | Covered in regression suite |
+
+</details>
+
+<details>
+<summary><b>&nbsp;🔌 &nbsp;How I approach API testing</b></summary>
+
+<br>
+
+- **Contract first** — status codes, schema, required fields, data types
+- **Chained scenarios** — auth → create → read → update → cancel, with variables carried between requests
+- **Scripted validation** — pre-request setup and post-response assertions in JavaScript
+- **Environments** — no hardcoded URLs, tokens, or IDs. Ever.
+- **Negative coverage** — expired tokens, missing fields, wrong types, boundary values, concurrent calls
+- **Cross-layer verification** — API says success, so the database and the workflow engine had better agree
+
+</details>
+
+<details>
+<summary><b>&nbsp;💡 &nbsp;Principles I actually work by</b></summary>
+
+<br>
+
+- **Break requirements, not builds.** A defect caught in the spec costs a conversation. In production it costs a release.
+- **A bug report is a deliverable.** Steps, expected, actual, environment, evidence. No archaeology required.
+- **Automate what repeats.** Regression suites should run while people sleep.
+- **Every state is a real state.** Loading, empty, error, timeout, offline — not just success.
+- **Two brains, every release.** Think like the user. Verify like an engineer.
+
+</details>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,33:4A00E0,66:00C9FF,100:92FE9D&height=4&section=header" width="100%" />
+
+## 🆕 &nbsp;Release Notes
+
+```diff
+@@ v3.0 — Current @@
++ QA on a fintech investment platform: orders, trades, securities, commissions, onboarding
++ Selenium (Java · TestNG · POM) and Playwright automation
++ API automation suites with chained requests and scripted assertions
++ Spec review that catches contradictions before test design
+! In progress: automation architecture, CI-integrated suites, AI-assisted test generation
+
+@@ v2.0 — Development Era @@
++ Frontend development and production web projects
++ IT project management: requirements, scope, delivery
+
+@@ v1.0 — Origin @@
++ BSc Computer Science
++ First "why did it break?" — still unanswered, still investigating
+```
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,33:4A00E0,66:00C9FF,100:92FE9D&height=4&section=header" width="100%" />
+
+## 📈 &nbsp;GitHub Stats
 
 <div align="center">
 
@@ -187,7 +324,7 @@ flowchart LR
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,50:00C9FF,100:92FE9D&height=4&section=header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,33:4A00E0,66:00C9FF,100:92FE9D&height=4&section=header" width="100%" />
 
 <div align="center">
 
@@ -201,15 +338,14 @@ flowchart LR
 <a href="mailto:najaflinisa@gmail.com">
   <img src="https://img.shields.io/badge/Email-najaflinisa@gmail.com-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" />
 </a>
-<a href="tel:+994555807384">
-  <img src="https://img.shields.io/badge/Phone-%2B994_55_580_73_84-92FE9D?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0D1117" />
+<a href="https://wa.me/994555807384">
+  <img src="https://img.shields.io/badge/WhatsApp-%2B994_55_580_73_84-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0D1117" />
+</a>
+<a href="https://github.com/NisaNajafli">
+  <img src="https://img.shields.io/badge/GitHub-NisaNajafli-8E2DE2?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" />
 </a>
 
-<br>
-
-<a href="https://www.linkedin.com/in/nisa-najafli/">
-  <img src="https://img.shields.io/badge/Let's_build_something_that_doesn't_break-8E2DE2?style=for-the-badge&logoColor=white&labelColor=0D1117" />
-</a>
+<br><br>
 
 <img src="https://komarev.com/ghpvc/?username=NisaNajafli&style=for-the-badge&color=00C9FF&label=PROFILE+VIEWS" />
 
