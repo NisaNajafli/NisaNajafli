@@ -15,9 +15,7 @@
 <a href="mailto:najaflinisa@gmail.com">
   <img src="https://img.shields.io/badge/Email-najaflinisa@gmail.com-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" />
 </a>
-<a href="https://wa.me/994555807384">
-  <img src="https://img.shields.io/badge/WhatsApp-%2B994_55_580_73_84-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0D1117" />
-</a>
+
 
 </div>
 
@@ -338,9 +336,7 @@ timeline
 <a href="mailto:najaflinisa@gmail.com">
   <img src="https://img.shields.io/badge/Email-najaflinisa@gmail.com-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" />
 </a>
-<a href="https://wa.me/994555807384">
-  <img src="https://img.shields.io/badge/WhatsApp-%2B994_55_580_73_84-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0D1117" />
-</a>
+
 <a href="https://github.com/NisaNajafli">
   <img src="https://img.shields.io/badge/GitHub-NisaNajafli-8E2DE2?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" />
 </a>
